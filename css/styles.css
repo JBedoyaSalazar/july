@@ -51,6 +51,6 @@ h1 {
 @media (max-width: 768px) {
     body {
         background-size: cover; 
-        background-image: url(https://i.pinimg.com/736x/11/61/33/1161331e77c8de04ec0771868df0bd1a.jpg);
+        background-image: url(../images/omenMejorado.jpg);
     }
 }
